@@ -1,0 +1,11 @@
+{
+  "org": "swc-project",
+  "repo": "pkgs",
+  "versions": [
+    {
+      "commit": "ab957ff226ac4695477435c6782355058c0d7b80",
+      "tag": "v0.0.1",
+      "parsed_at": "2026-11-21T22:55:16.397975+00:00"
+    }
+  ]
+}
