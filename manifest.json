@@ -84,6 +84,82 @@
       ],
       "ast": [
         "aggregate/ast/ab957ff226ac4695477435c6782355058c0d7b80/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/ab957ff226ac4695477435c6782355058c0d7b80.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "@taplo/cli",
+          "ecosystem": "NPM",
+          "version": "0.5.2",
+          "githubOrg": "tamasfe",
+          "githubRepo": "taplo",
+          "githubUrl": "git+https://github.com/tamasfe/taplo.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "cross-env",
+          "ecosystem": "NPM",
+          "version": "7.0.3",
+          "githubOrg": "kentcdodds",
+          "githubRepo": "cross-env",
+          "githubCommit": "bb0287b199c3e4cea5c0e1a20ef0c8d78db1aaa4",
+          "githubTag": "v7.0.3",
+          "githubUrl": "git+https://github.com/kentcdodds/cross-env.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "cspell",
+          "ecosystem": "NPM",
+          "version": "6.31.1",
+          "githubOrg": "streetsidesoftware",
+          "githubRepo": "cspell",
+          "githubCommit": "43c3652e27588f6643cf78fd764f12f497f89fbf",
+          "githubTag": "v6.31.1",
+          "githubUrl": "git+https://github.com/streetsidesoftware/cspell.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "husky",
+          "ecosystem": "NPM",
+          "version": "8.0.3",
+          "githubOrg": "typicode",
+          "githubRepo": "husky",
+          "githubCommit": "3c0e08d3ca4d01d04ebb92089e68c47e131ab6be",
+          "githubTag": "v8.0.3",
+          "githubUrl": "git+https://github.com/typicode/husky.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "lerna",
+          "ecosystem": "NPM",
+          "version": "8.0.2",
+          "githubOrg": "lerna",
+          "githubRepo": "lerna",
+          "githubCommit": "4fcac71c782cf91a3624fded775faaf3ddb8d636",
+          "githubTag": "v8.0.2",
+          "githubUrl": "git+https://github.com/lerna/lerna.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "lint-staged",
+          "ecosystem": "NPM",
+          "version": "13.2.3",
+          "githubOrg": "lint-staged",
+          "githubRepo": "lint-staged",
+          "githubCommit": "66a716d5a32c49f03b9a34350fec1b2411bada17",
+          "githubTag": "v13.2.3",
+          "githubUrl": "git+https://github.com/lint-staged/lint-staged.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "prettier",
+          "ecosystem": "NPM",
+          "version": "2",
+          "githubOrg": "prettier",
+          "githubRepo": "prettier",
+          "githubUrl": "git+https://github.com/prettier/prettier.git",
+          "source": "build_file:package.json"
+        }
       ]
     }
   ],
